@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Yeowon!
-![header](./assets/header.jpg)
+<!--![header](./assets/header.jpg)-->
 
 <!--<br>
 
@@ -22,30 +22,28 @@
 
 ## 🛠 Featured Projects
 
-### 🏡 이사모음.zip
+### 🏡 [이사모음.zip](https://github.com/Planner24/24planner.zip)  
 > 흩어져 있는 이사의 모든 것: 체크리스트, 캘린더, 지도, 동거인 기능을 통해 이사 계획을 돕는 웹 사이트
 
-Java SpringBoot, React.js, MySQL, AWS  
+\- Java SpringBoot, React.js, MySQL, AWS  
 
-🔗 https://24zip.com | [GitHub Repository](https://github.com/Planner24/24planner.zip)   
+🔗 https://24zip.com   
 
 <br>
 
-### 📊 Wise it: SQooL  
+### 📊 [Wise it: SQooL](https://github.com/WISE-IT-TEAM/Flask.WISE.IT.BE)  
 > 어려운 영어 예제는 이제 그만! SQLite 웹 에디터와 한글 데이터베이스로 쉽게 배우는 SQL 학습 사이트
 
-Python Flask, Next.js, MariaDB, Vultr  
+\- Python Flask, Next.js, MariaDB, Vultr  
 
-🔗 [GitHub Repository](https://github.com/WISE-IT-TEAM/Flask.WISE.IT.BE)
 
 <br>
 
-### 💬 Word Wise Web
+### 💬 [Word Wise Web](https://github.com/KoHo512/WordWiseWeb)
 > Gemini AI로 단어의 뜻과 예문을 분석하고 문제를 풀며 학습하는 단어장 크롬 확장 프로그램
 
-Vanilla JS, IndexDB  
+\- Vanilla JS, IndexDB  
 
-🔗 [GitHub Repository](https://github.com/KoHo512/WordWiseWeb)  
 
 <br>
 
