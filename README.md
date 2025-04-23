@@ -49,5 +49,5 @@
 
 ## 📬 Contact
 
-**✉️ Email**: projecy.yw.103@gmail.com
+**✉️ Email**: project.yw.103@gmail.com
 
